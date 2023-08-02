@@ -4,9 +4,8 @@
  </abc>
 </h2> 
 
-
-<h2 align="left">👩🏻‍💻 Обо мне:</h2> 
 <img align="right" src="https://knowledge-hub.com/wp-content/uploads/2022/02/Monkey_Kid_Coding.gif" alt="Coding monkey" width="300">
+<h2 align="left">👩🏻‍💻 Обо мне:</h2> 
 
 - :computer: Я начинающий front-end разработчик
 - :hourglass_flowing_sand: Активно изучаю React, планирую также освоить Vue
