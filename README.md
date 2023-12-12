@@ -9,6 +9,7 @@
 
 - :computer: Я начинающий front-end разработчик
 - :hourglass_flowing_sand: Активно изучаю React, планирую также освоить Vue
+- 💼 Принимаю участие в разработке [сервиса по созданию резюме](https://github.com/creating-and-editing-a-resume) в кросс-функциональной команде в рамках Акселератора Я.Практикум
 - :dart: Стремлюсь найти интересную компанию для стажировки
 - 🥋 Мечтаю реализовать платформу для проведения турниров по джиу-джитсу в качестве pet-проекта 
 - :hugs: Буду рада найти команду для воплощения этой идеи в жизнь 
@@ -20,7 +21,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="telegram" />
     </a> -->
 
-<h2 align="left">:hammer_and_wrench: Мой стек:</h2>
+<h2 align="left">🛠 Мой стек:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
